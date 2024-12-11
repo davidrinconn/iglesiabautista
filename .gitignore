@@ -1,0 +1,26 @@
+# Ignorar archivos y directorios del sistema
+AppData/
+Application Data/
+Contacts/
+Cookies/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Local Settings/
+Music/
+OneDrive/
+Pictures/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+Start Menu/
+Videos/
+*.log
+*.bak
+.bash_history
+.gitconfig
+.lesshst
+ntuser.dat*
